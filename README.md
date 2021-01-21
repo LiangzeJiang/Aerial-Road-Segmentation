@@ -5,10 +5,6 @@
 This project aims to extract road from a set of aerial images. We use U-Net, which is a popular and typical image segmentation model 
 and combine it with regularization, data augmentation, post morphological block and other techniques to tackle this problem. **Finally, we achieve a 0.892 F1-score on AICrowd. Submission ID: 110060**
 
-<center>
- ![image](https://github.com/LiangzeJiang/Aerial-Road-Segmentation/blob/main/data/example_img_gt.png)
-</center>
-
 <div style="text-align: center">
 <img src="https://github.com/LiangzeJiang/Aerial-Road-Segmentation/blob/main/data/example_img_gt.png"/>
 </div>
@@ -17,6 +13,9 @@ and combine it with regularization, data augmentation, post morphological block 
 - Liangze Jiang
 - Ruizhi Luo
 - Danyang Wang
+
+### Results:
+
 
 ## Requirements
 Apart from the basic packages, the project is done under:
