@@ -9,6 +9,10 @@ and combine it with regularization, data augmentation, post morphological block 
  ![image](https://github.com/LiangzeJiang/Aerial-Road-Segmentation/blob/main/data/example_img_gt.png)
 </center>
 
+<div style="text-align: center">
+<img src="https://github.com/LiangzeJiang/Aerial-Road-Segmentation/blob/main/data/example_img_gt.png"/>
+</div>
+
 ### Authors:
 - Liangze Jiang
 - Ruizhi Luo
