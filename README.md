@@ -9,12 +9,6 @@ and combine it with regularization, data augmentation, post morphological block 
 <img src="https://github.com/LiangzeJiang/Aerial-Road-Segmentation/blob/main/data/example_img_gt.png"/>
 </div>
 
-## Results:
-
-<div style="text-align: center">
-<img src="https://github.com/LiangzeJiang/Aerial-Road-Segmentation/blob/main/data/example_results.png"/>
-</div>
-
 ## Requirements
 Apart from the basic packages, the project is done under:
 **opencv-python==4.1.2.30
@@ -69,3 +63,8 @@ To reproduce our final results or train from scratch：
 or 
     2) set `trained_model` argument as `False` and train the model from scratch. After training you may want to test on your parameters, then set `trained_model` as `True` and execute again to make a prediction.
 
+## Results:
+
+<div style="text-align: center">
+<img src="https://github.com/LiangzeJiang/Aerial-Road-Segmentation/blob/main/data/example_results.png"/>
+</div>
