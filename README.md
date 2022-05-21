@@ -1,5 +1,5 @@
 # CS-433 Project2: Road Segmentation on Aerial Images
-**The README outlines the requirements, project structure and the way to reproduce our final results. For more details, you can check our report. Thanks.**
+**The README outlines the requirements, project structure and the way to reproduce our final results. For more details, please check our report. Thanks.**
 
 ## Introduction
 This project aims to extract road from a set of aerial images. We use U-Net, which is a popular and typical image segmentation model 
